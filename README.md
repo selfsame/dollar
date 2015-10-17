@@ -1,7 +1,9 @@
-# dollar.bill
-###a subset of jquery functions for the nostalgic cljs user
+##subset of jquery functions for the nostalgic cljs user
 
-## usage
+leiningen
+```clj
+[selfsame/dollar "0.0.9-SNAPSHOT"]
+```
 
 ```clj
 (ns user
